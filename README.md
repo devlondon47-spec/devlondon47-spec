@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Ansh Patel
 
-<!--
-**devlondon47-spec/devlondon47-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a software developer and a student, passionate about learning and building projects.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Python, JavaScript
+- 🔨 Working on: Personal projects and coding practice
+- 💬 Ask me about: Web development, programming, and software development
+- 📫 Contact: devlondon47@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills
+- Python
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+
+---
+
+Thanks for visiting my profile 😊
