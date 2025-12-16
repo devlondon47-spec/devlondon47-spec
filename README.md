@@ -40,14 +40,16 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Contribution graph animated -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AnshPatel47&theme=react-dark&area=true" alt="Contribution Graph" />
-  <br><br>
-  <!-- Streak animated -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshPatel47&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+<!-- GitHub Stats (works reliably) -->
+<img src="https://github-readme-stats.vercel.app/api?username=AnshPatel47&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPatel47&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
 </div>
 
 ---
