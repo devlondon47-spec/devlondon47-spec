@@ -40,15 +40,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-<!-- GitHub Stats (works reliably) -->
-<img src="https://github-readme-stats.vercel.app/api?username=AnshPatel47&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPatel47&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<!-- Animated GitHub contribution calendar -->
+<img src="https://ghchart.rshah.org/AnshPatel47" alt="GitHub chart" width="600"/>
 
 </div>
 
