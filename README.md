@@ -6,6 +6,7 @@
 - 🔨 Working on: Personal projects and coding practice
 - 💬 Ask me about: Web development, programming, and software development
 - 📫 Contact: devlondon47@gmail.com
+- 📫 linkedin: www.linkedin.com/in/dev-london-a09416394
 
 ---
 
