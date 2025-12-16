@@ -5,53 +5,37 @@
 
 <!-- Typing animation -->
 <div align="center" style="margin-bottom: 2rem;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1200&color=764ba2&width=700&lines=Python+%7C+JavaScript+%7C+Java+%7C+C%23+%7C+Go;React+%7C+Node.js+%7C+Django+%7C+Docker;Always+Learning+New+Technologies;Open+to+Collaboration" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1200&color=764ba2&width=700&lines=Python+%7C+HTML+%7C+CSS+%7C+Node.js+%7C+Angular+%7C+React;Always+Learning+New+Technologies;Open+to+Collaboration" alt="Typing animation"/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 - 🔭 Working on personal projects & full-stack development  
-- 🌱 Learning Python, JavaScript, React, Django, Node.js, Docker & AWS  
+- 🌱 Learning advanced **Python, Node.js, Angular, React, HTML, CSS**  
 - 👯 Open to collaborating on open-source projects  
 - 💬 Ask me about programming, web development & software engineering  
 - 📫 Reach me: [Email](mailto:devlondon47@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dev-london-a09416394)
 
 ---
 
-### 🛠 Skills
+### 🛠 My Skills
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-70%25-blue?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-60%25-lightgrey?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-80%25-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br><br>
+  <img src="https://img.shields.io/badge/HTML-85%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-85%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-75%25-red?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-85%25-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-75%25-darkgreen?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-70%25-lightgrey?style=for-the-badge&logo=express&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-65%25-blue?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-60%25-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
 ---
 
-### 💡 My Projects
+### 📈 Learning Goals
 <div align="center">
-  <img src="https://c.tenor.com/0VRy4jZJf_wAAAAC/code.gif" width="200" alt="coding gif"/>
-  <br><br>
-  <a href="https://github.com/AnshPatel47/Project1" target="_blank">🚀 Project One</a> | <a href="https://github.com/AnshPatel47/Project2" target="_blank">🚀 Project Two</a> | <a href="https://github.com/AnshPatel47/Project3" target="_blank">🚀 Project Three</a>
-</div>
-
----
-
-### 📈 What I'm Learning / Goals
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=650&lines=Mastering+Python+and+JavaScript;Building+Full-Stack+Apps;Exploring+AI+and+Machine+Learning;Improving+Problem-Solving+Skills" alt="Learning Goals"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=650&lines=Mastering+Python+and+Web+Technologies;Building+Full-Stack+Applications;Exploring+Angular+and+React;Improving+Problem-Solving+Skills" alt="Learning Goals"/>
 </div>
 
 ---
