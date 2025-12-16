@@ -22,7 +22,6 @@
 ### 🛠 My Skills
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
   <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-85%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
@@ -33,15 +32,27 @@
 
 ---
 
-### 📈 Learning Goals
+### 🏆 Achievements & Learning Progress
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=650&lines=Mastering+Python+and+Web+Technologies;Building+Full-Stack+Applications;Exploring+Angular+and+React;Improving+Problem-Solving+Skills" alt="Learning Goals"/>
+  <!-- Animated Typing for Learning Path -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=700&lines=🌐+Web+Development:+HTML,+CSS,+JavaScript,+Responsive+Design;💻+Software+Development:+Python,+Git+%26+GitHub,+Problem+Solving;☁️+Cloud+%26+Deployment:+AWS+%26+Netlify;📱+Mobile+Development:+React+Native" alt="Learning Path"/>
+</div>
+
+<div align="center" style="margin-top: 1rem;">
+  <!-- Animated Typing for Achievements -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F8DD6&width=700&lines=✅+Completed+personal+web+projects;✅+Participated+in+LeetCode+%26+HackerRank;✅+Contributed+to+Open+Source;✅+Built+and+deployed+responsive+web+apps" alt="Achievements"/>
+</div>
+
+<div align="center" style="margin-top: 1rem;">
+  <!-- Animated Typing for Focus & Current Learning -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=764ba2&width=700&lines=Focus:+Full-stack+development,+clean+code,+new+frameworks,+problem-solving;Currently+Learning:+React.js,+Next.js,+AWS,+Netlify,+React+Native,+Advanced+DSA" alt="Focus & Current Learning"/>
 </div>
 
 ---
 
 ### 🎯 Hobbies & Interests
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 1rem;">
   <img src="https://img.shields.io/badge/Gaming-FF5733?style=for-the-badge&logo=gamepad&logoColor=white"/>
   <img src="https://img.shields.io/badge/Reading-6C63FF?style=for-the-badge&logo=book&logoColor=white"/>
   <img src="https://img.shields.io/badge/Travel-1ABC9C?style=for-the-badge&logo=plane&logoColor=white"/>
@@ -50,23 +61,22 @@
 ---
 
 ### 🌐 Connect with Me
-<div align="center" style="display: flex; justify-content: center; gap: 30px; margin-bottom: 2rem;">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; margin-top: 2rem;">
   <a href="https://www.linkedin.com/in/dev-london-a09416394">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:devlondon47@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/devlondon47-spec">
+  <a href="https://github.com/AnshPatel47">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top: 2rem;">
   <img src="https://c.tenor.com/4gXYybbOYqAAAAAC/coding-programming.gif" width="250" alt="Coding animation" />
 </div>
 
-⭐️ From [Ansh Patel](https://github.com/devlondon47-spec
-)
+⭐️ From [Ansh Patel](https://github.com/AnshPatel47)
