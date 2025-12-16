@@ -1,31 +1,28 @@
 <div align="center">
   <h1>Hi 👋, I'm Ansh Patel</h1>
   <h3>💻 Software Developer | 🌱 Lifelong Learner | 🎯 Problem Solver</h3>
-
-  <!-- Screenshot -->
-  <img src="./assets/github-profile-screenshot.png" alt="GitHub Profile Screenshot" width="800" style="border-radius:12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
 </div>
 
 <!-- Typing animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1200&color=764ba2&width=650&lines=Python+%7C+JavaScript+%7C+Java+%7C+C%23+%7C+Go;React+%7C+Node.js+%7C+Django+%7C+Docker;Always+Learning+New+Technologies;Open+to+Collaboration" alt="Typing animation"/>
+<div align="center" style="margin-bottom: 2rem;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1200&color=764ba2&width=700&lines=Python+%7C+JavaScript+%7C+Java+%7C+C%23+%7C+Go;React+%7C+Node.js+%7C+Django+%7C+Docker;Always+Learning+New+Technologies;Open+to+Collaboration" alt="Typing animation"/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on personal projects and improving full-stack development  
+- 🔭 Working on personal projects & full-stack development  
 - 🌱 Learning Python, JavaScript, React, Django, Node.js, Docker & AWS  
-- 👯 Open to collaborate on open-source projects  
-- 💬 Ask me about programming, web development, and software engineering  
+- 👯 Open to collaborating on open-source projects  
+- 💬 Ask me about programming, web development & software engineering  
 - 📫 Reach me: [Email](mailto:devlondon47@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dev-london-a09416394)
 
 ---
 
 ### 🛠 Skills
 
-<div align="center">
-  <!-- Static skill badges -->
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
   <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge&logo=java&logoColor=white" />
@@ -43,19 +40,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshPatel47&show_icons=true&theme=synthwave&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPatel47&layout=compact&theme=synthwave&hide_border=true" />
+  <!-- Contribution graph animated -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AnshPatel47&theme=react-dark&area=true" alt="Contribution Graph" />
+  <br><br>
+  <!-- Streak animated -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshPatel47&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 🌐 Connect with Me
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; margin-bottom: 2rem;">
   <a href="https://www.linkedin.com/in/dev-london-a09416394">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -69,8 +68,11 @@
 
 ---
 
+<!-- Animated coding GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="250" alt="Coding animation" />
+  <img src="https://c.tenor.com/4gXYybbOYqAAAAAC/coding-programming.gif" width="250" alt="Coding animation" />
 </div>
+
+---
 
 ⭐️ From [Ansh Patel](https://github.com/AnshPatel47)
