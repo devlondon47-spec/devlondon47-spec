@@ -41,10 +41,10 @@
 ---
 
 ### 🎯 Hobbies & Interests
-<div align="center">
-  <img src="https://c.tenor.com/8X6MQdPh7tIAAAAC/game-code.gif" width="180" alt="Gaming"/>
-  <img src="https://c.tenor.com/tM1p17sF9_IAAAAC/reading-book.gif" width="180" alt="Reading"/>
-  <img src="https://c.tenor.com/f_7au1-ILGIAAAAC/travel.gif" width="180" alt="Travel"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <img src="https://img.shields.io/badge/Gaming-FF5733?style=for-the-badge&logo=gamepad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reading-6C63FF?style=for-the-badge&logo=book&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Travel-1ABC9C?style=for-the-badge&logo=plane&logoColor=white"/>
 </div>
 
 ---
