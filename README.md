@@ -40,19 +40,32 @@
 
 ---
 
-### 📊 GitHub Activity
-
+### 💡 My Projects
 <div align="center">
+  <img src="https://c.tenor.com/0VRy4jZJf_wAAAAC/code.gif" width="200" alt="coding gif"/>
+  <br><br>
+  <a href="https://github.com/AnshPatel47/Project1" target="_blank">🚀 Project One</a> | <a href="https://github.com/AnshPatel47/Project2" target="_blank">🚀 Project Two</a> | <a href="https://github.com/AnshPatel47/Project3" target="_blank">🚀 Project Three</a>
+</div>
 
-<!-- Animated GitHub contribution calendar -->
-<img src="https://ghchart.rshah.org/AnshPatel47" alt="GitHub chart" width="600"/>
+---
 
+### 📈 What I'm Learning / Goals
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=650&lines=Mastering+Python+and+JavaScript;Building+Full-Stack+Apps;Exploring+AI+and+Machine+Learning;Improving+Problem-Solving+Skills" alt="Learning Goals"/>
+</div>
+
+---
+
+### 🎯 Hobbies & Interests
+<div align="center">
+  <img src="https://c.tenor.com/8X6MQdPh7tIAAAAC/game-code.gif" width="180" alt="Gaming"/>
+  <img src="https://c.tenor.com/tM1p17sF9_IAAAAC/reading-book.gif" width="180" alt="Reading"/>
+  <img src="https://c.tenor.com/f_7au1-ILGIAAAAC/travel.gif" width="180" alt="Travel"/>
 </div>
 
 ---
 
 ### 🌐 Connect with Me
-
 <div align="center" style="display: flex; justify-content: center; gap: 30px; margin-bottom: 2rem;">
   <a href="https://www.linkedin.com/in/dev-london-a09416394">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -67,11 +80,8 @@
 
 ---
 
-<!-- Animated coding GIF -->
 <div align="center">
   <img src="https://c.tenor.com/4gXYybbOYqAAAAAC/coding-programming.gif" width="250" alt="Coding animation" />
 </div>
-
----
 
 ⭐️ From [Ansh Patel](https://github.com/AnshPatel47)
